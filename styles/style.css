@@ -1,0 +1,23 @@
+body{
+    background-color:cadetblue;
+}
+
+.home{
+    height: 100vh;
+    background: url('../imgs/big\ brain.jpg'),linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.8));
+    background-size: cover;
+
+}
+
+.intro{
+    color: black;
+    padding: 10% 20%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.name{
+    font-size: 3em;
+    font-weight: 500;
+}
